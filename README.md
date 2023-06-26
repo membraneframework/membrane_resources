@@ -1,2 +1,8 @@
-# membrane_design_docs
-Publicly available design docs for Membrane Framework projects
+# Membrane resources
+
+Publicly available design docs for Membrane Framework projects and useful multimedia learning resources.
+
+## Sections
+
+Checkout subsections:
+- [Core](./core/README.md)
