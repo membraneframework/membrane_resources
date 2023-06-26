@@ -5,5 +5,5 @@ Publicly available design docs for Membrane Framework projects and useful multim
 ## Sections
 
 Checkout subsections:
-- [Core](./core/README.md)
+- [Core](./Core/README.md)
 - [Videoroom](./Videoroom/README.md)
